@@ -19,7 +19,7 @@ sayings =
     "cover letter: Passionate Rubyist and Microsoft certified database developer",
     "cover letter: Hello, I'm a Ruby developer who first started working with Rails in 2007, before it was cool.",
     "candidate: so are you guys an incubator or consultancy or what?",
-    "candidate: i'm as close to a CTO as you can get being remote",
+    "candidate: i'm as close to a CTO as you can get when you work remotely",
     "questionnaire: 'Choose one word to summarize your strongest professional attribute.,' candidate: 'I'm very good at following instructions.'",
     "candidate explained an arrest by stating, 'We stole a pig, but it was a really small pig.'",
     "candidate: I can't tell you how much I want this job, you know? I'm so sick of getting fired.",
@@ -29,7 +29,8 @@ sayings =
     "candidate: What can I bring to the job? oh, I can bring my own stationary and computer. I took that all with me when I got sacked from my last job, so that's not an issue.",
     "candidate: most days I bring my lunch... my mum makes it",
     "candidate: 'who's the hot babe in the photo ... yum yum ?' interviewer: 'actually, that's my wife'",
-    "candidate: I'm sorry, I've got another job interview down the road, so I have to go"
+    "candidate: I'm sorry, I've got another job interview down the road, so I have to go",
+    "candidate: I created a charity because it's the only way children's hospitals will let me in."
   ]
 
 module.exports = (robot) ->
