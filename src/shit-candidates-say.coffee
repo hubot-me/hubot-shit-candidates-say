@@ -28,7 +28,7 @@ sayings =
     "candidate: I'm rather surprised that that you chose to use that type of code test. There are far better ways to go about testing candidates",
     "candidate: I run a horse farm full time so I need to work remotely.",
     "candidate: I have to go, I have another phone interview in a minute.",
-    "candidate: I created a charity because it's the only way children's hospitals will let me in."
+    "candidate: I created a charity because it's the only way children's hospitals will let me in.",
     "candidate: Stop! Look no further you have found the Perl developer that you need!"
   ]
 
