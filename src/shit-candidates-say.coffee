@@ -29,6 +29,7 @@ sayings =
     "candidate: I run a horse farm full time so I need to work remotely.",
     "candidate: I have to go, I have another phone interview in a minute.",
     "candidate: I created a charity because it's the only way children's hospitals will let me in."
+    "candidate: Stop! Look no further you have found the Perl developer that you need!"
   ]
 
 module.exports = (robot) ->
