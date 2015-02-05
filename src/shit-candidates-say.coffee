@@ -18,6 +18,7 @@ sayings =
   [
     "cover letter: Passionate Rubyist and Microsoft certified database developer.",
     "cover letter: I'm a Ruby developer who first started working with Rails in 2007, before it was cool.",
+    "cover letter: I've been building Rails applications for the last 3­4 years.",
     "candidate: ...So are you guys an incubator or consultancy or what?",
     "candidate: I'm as close to a CTO as you can get when you work remotely.",
     "candidate explained an arrest by stating, 'We stole a pig, but it was a really small pig.'",
